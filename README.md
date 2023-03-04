@@ -1,4 +1,4 @@
-<h1 align="center"> Conversor de moedas e temperatura </h1>
+<h1 align="center"> Conversor de moedas e temperaturas </h1>
 
 <p align="center">
 Challenge ONE Back End - Java.</p>
