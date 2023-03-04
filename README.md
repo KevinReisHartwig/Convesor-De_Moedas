@@ -17,6 +17,7 @@ Sprint 01: Crie seu próprio conversor de moeda.</p>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Java 
+- Trello
 
 ## 💻 Projeto
 
