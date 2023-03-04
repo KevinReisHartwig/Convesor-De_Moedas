@@ -9,7 +9,7 @@ Sprint 01: Crie seu próprio conversor de moeda.</p>
 <br>
 
 <p align="center">
-  <img alt="Imagem codificador" src="Codificador.jpeg" width="100%">
+  <img alt="Imagem Conversor" src="Conversor.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
